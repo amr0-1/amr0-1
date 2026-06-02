@@ -13,6 +13,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          username: amr0-1
 
       - uses: peaceiris/actions-gh-pages@v3
         with:

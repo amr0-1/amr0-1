@@ -67,15 +67,12 @@ Current Focus:
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amr0-1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr0-1&layout=compact&theme=tokyonight"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amr0-1&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amr0-1"/>
+
 </p>
 
 <p align="center">
@@ -122,7 +119,7 @@ Current Focus:
 <p align="center">
 
 <a href="https://github.com/amr0-1/StorySync">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amr0-1&repo=StorySync&theme=tokyonight"/>
+  <img width="900" src="./assets/storysync-banner.png">   
 </a>
 
 </p>
