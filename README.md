@@ -1,16 +1,16 @@
-<div align="center">
+# <div align="center">Aamir Ansari</div>
 
-# Aamir Ansari
+<div align="center">
 
 ### MCA Student • Full Stack Developer • UI/UX Enthusiast • Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+Modern+User+Experiences;React+%7C+Flutter+%7C+Node.js+Developer;Open+Source+Contributor;Creating+Beautiful+UI%2FUX+Experiences;Always+Exploring+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+Modern+User+Experiences;React+%7C+Flutter+%7C+Node.js+Developer;Open+Source+Contributor;Creating+Beautiful+UI%2FUX+Experiences;Always+Exploring+New+Technologies" />
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 ```yaml
 Name: Aamir Ansari
@@ -31,12 +31,12 @@ Current Focus:
   - Flutter Applications
   - Open Source Contributions
   - System Design Learning
-  - AI-Powered Applications
+  - AI Powered Applications
 ```
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
 
@@ -62,58 +62,70 @@ Current Focus:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge\&logo=githubcopilot)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-AI-blue?style=for-the-badge)
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amr0-1&show_icons=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr0-1&layout=compact"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amr0-1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr0-1&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=amr0-1"/>
-
+  <img src="https://streak-stats.demolab.com?user=amr0-1&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amr0-1"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amr0-1&theme=tokyo-night"/>
 </p>
 
 ---
 
-## GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amr0-1&theme=algolia&row=1&column=6"/>
-
+  <img src="https://raw.githubusercontent.com/amr0-1/amr0-1/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
 
-## Currently Building
+## 🌌 3D Contribution Calendar
 
-🚀 StorySync - Reading Tracker Widget
-
-📚 MCA Academic Projects
-
-🌐 Open Source Contributions
-
-🤖 AI-Powered Developer Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amr0-1/amr0-1/output/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+</p>
 
 ---
 
-## Featured Projects
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amr0-1&theme=algolia&row=1&column=6"/>
+</p>
+
+---
+
+## 🔨 Currently Building
+
+* 🚀 StorySync - Reading Tracker Widget
+* 📚 MCA Academic Projects
+* 🌐 Open Source Contributions
+* 🤖 AI-Powered Developer Tools
+
+---
+
+## ⭐ Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/amr0-1/StorySync">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amr0-1&repo=StorySync&theme=tokyonight"/>
+</a>
+
+</p>
 
 ### StorySync
 
@@ -123,7 +135,7 @@ A modern reading tracker widget built with Flutter that helps users track readin
 
 ---
 
-## Current Goals
+## 🎯 Current Goals
 
 * Contribute to more open source projects
 * Build production-grade Flutter applications
@@ -134,13 +146,13 @@ A modern reading tracker widget built with Flutter that helps users track readin
 
 ---
 
-## Fun Fact
+## 💡 Fun Fact
 
 I enjoy combining modern animations, clean interfaces, and emerging technologies to create engaging user experiences.
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
